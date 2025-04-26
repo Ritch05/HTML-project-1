@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.menu {
+    display: flex;
+    justify-content:center;
+    background-color: #964242e5;
+    padding: 26px;
+}
+.menu-items {
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: rgb(240, 248, 255);
+    margin-right: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
